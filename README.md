@@ -1,6 +1,6 @@
 # License Plate Recognition using AI/ML
 
-![License Plate Recognition](https://projectgurukul.org/wp-content/uploads/2021/09/machine-learning-project-license-number-plate-recognition.webp)
+![License Plate Recognition](https://github.com/realranjan/licence-plate-recognition-using-aiml/blob/main/testset/0004_jpg.rf.eb9da83daa2257ca6954e27599941a77.jpg)
 
 ## Overview
 
